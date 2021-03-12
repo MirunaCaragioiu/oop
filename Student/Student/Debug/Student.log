@@ -1,0 +1,5 @@
+﻿  Student.cpp
+C:\Users\mirun\Desktop\Student\Student\Student.h(113,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\mirun\Desktop\Student\Student\Student.h(118,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mirun\Desktop\Student\Student\Student.h(141,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Student.vcxproj -> C:\Users\mirun\Desktop\Student\Debug\Student.exe

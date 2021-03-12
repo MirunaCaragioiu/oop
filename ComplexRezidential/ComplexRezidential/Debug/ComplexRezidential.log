@@ -1,0 +1,3 @@
+﻿  ComplexRezidential.cpp
+C:\Users\mirun\Desktop\ComplexRezidential\ComplexRezidential\ComplexRezidential.cpp(127,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ComplexRezidential.vcxproj -> C:\Users\mirun\Desktop\ComplexRezidential\Debug\ComplexRezidential.exe

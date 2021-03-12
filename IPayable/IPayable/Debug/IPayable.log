@@ -1,0 +1,3 @@
+﻿  IPayable.cpp
+C:\Users\mirun\Desktop\IPayable\IPayable\IPayable.cpp(74,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  IPayable.vcxproj -> C:\Users\mirun\Desktop\IPayable\Debug\IPayable.exe

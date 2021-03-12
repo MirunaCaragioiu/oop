@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\mirun\desktop\video\video\source.cpp(264): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Video.vcxproj -> C:\Users\mirun\Desktop\Video\Debug\Video.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\mirun\desktop\poo\poomuzeu\poomuzeu\source.cpp(269): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  POOMuzeu.vcxproj -> C:\Users\mirun\Desktop\POO\POOMuzeu\Debug\POOMuzeu.exe

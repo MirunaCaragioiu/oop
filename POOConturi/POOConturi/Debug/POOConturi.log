@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\mirun\desktop\poo\pooconturi\pooconturi\source.cpp(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mirun\desktop\poo\pooconturi\pooconturi\source.cpp(136): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\mirun\desktop\poo\pooconturi\pooconturi\source.cpp(138): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\mirun\desktop\poo\pooconturi\pooconturi\source.cpp(145): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\mirun\desktop\poo\pooconturi\pooconturi\source.cpp(146): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\mirun\desktop\poo\pooconturi\pooconturi\source.cpp(332): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  POOConturi.vcxproj -> C:\Users\mirun\Desktop\POO\POOConturi\Debug\POOConturi.exe

@@ -1,0 +1,3 @@
+﻿  Produs.cpp
+C:\Users\mirun\Desktop\Produs\Produs\Produs.cpp(142,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Produs.vcxproj -> C:\Users\mirun\Desktop\Produs\Debug\Produs.exe

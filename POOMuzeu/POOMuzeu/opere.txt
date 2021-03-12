@@ -1,0 +1,10 @@
+
+Cod: 0,denumire:  ,autor:  ,nr licitatii: 0
+Cod: 1,denumire: ML,autor: VG,nr licitatii: 4
+	cu valorile: 12 52 10 45 
+Cod: 2,denumire: Casa sec 19,autor: Van Gogh,nr licitatii: 3
+	cu valorile: 12 52 10 
+Cod: 3,denumire: MonaLisa,autor: Da Vinci,nr licitatii: 4
+	cu valorile: 12 52 10 45 
+Cod: 4,denumire: Casa,autor: Van Gogh,nr licitatii: 3
+	cu valorile: 12 52 10 

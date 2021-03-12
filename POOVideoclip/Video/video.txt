@@ -1,0 +1,6 @@
+
+Id: 0 ,subiect:  ,numar: 0 ,durata: 
+Id: 0 ,subiect: school ,numar: 3 ,durata: 45 20 13 
+Id: 0 ,subiect: skin care ,numar: 2 ,durata: 12 30 
+Id: 0 ,subiect: skin care ,numar: 2 ,durata: 12 30 
+Id: 0 ,subiect: make up ,numar: 4 ,durata: 12 32 52 26 
